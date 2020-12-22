@@ -14,6 +14,11 @@ module.exports = {
           {
             resolve: `gatsby-remark-prismjs`,
             options: {
+              plugins: [
+                {
+                  resolve: `gatsby-remark-highlight-code`
+                },
+              ],
               classPrefix: "language-",
               inlineCodeMarker: null,
               aliases: {},
