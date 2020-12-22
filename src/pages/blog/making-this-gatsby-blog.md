@@ -10,3 +10,9 @@ overall, i felt good that i was able to figure it out mostly on my own! thank yo
 thoughts after coming back from a break: maybe i should add tags! (i couldn't figure it out)
 
 also i saw another gatsby template with dark mode enabled and it's so image-centric and clean! maybe another time for another purpose. for a dev learning blog, a text-based look will do! :)
+
+i also replaced the origin with this instead in the gatsby-browser.js file so that it's dark-theme 
+
+```
+require("prismjs/themes/prism-tomorrow.css");
+```
