@@ -11,8 +11,9 @@ thoughts after coming back from a break: maybe i should add tags! (i couldn't fi
 
 also i saw another gatsby template with dark mode enabled and it's so image-centric and clean! maybe another time for another purpose. for a dev learning blog, a text-based look will do! :)
 
-i also replaced the origin with this instead in the gatsby-browser.js file so that it's dark-theme 
+i also replaced the origin with this instead in the gatsby-browser.js file so that it's dark-theme. also, apparently i need to select the language that it's written in so that the code block shows syntax highlighting!
 
-```
+```javascript
 require("prismjs/themes/prism-tomorrow.css");
+
 ```
