@@ -3,7 +3,7 @@ backend:
   repo: ivavay/my-gatsby-project
 
 media_folder: static/assets
-public_folder: /assets
+public_folder: /assets/src/pages/blog
 
 collections:
   - name: blog
