@@ -21,27 +21,7 @@ const PostTemplate = ({ data, pageContext }) => {
         <div className="divider" />
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </article>
-      <div className="page-navigation code">
-        {prev && (
-          <Link
-            className="prev"
-            to={prev.fields.slug}
-            title={prev.frontmatter.title}
-          >
-            &lt;&lt;
-          </Link>
-        )}
-        
-        {next && (
-          <Link
-            className="next"
-            to={next.fields.slug}
-            title={next.frontmatter.title}
-          >
-            &gt;&gt;
-          </Link>
-        )}
-      </div>
+    
     </DefaultLayout>
   )
 }
