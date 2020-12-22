@@ -31,9 +31,7 @@ const PostTemplate = ({ data, pageContext }) => {
             &lt;&lt;
           </Link>
         )}
-        <span> &middot; </span>
-       
-        <span> &middot; </span>
+        
         {next && (
           <Link
             className="next"
