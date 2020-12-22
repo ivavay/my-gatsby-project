@@ -3,12 +3,12 @@ backend:
   repo: ivavay/my-gatsby-project
 
 media_folder: static/assets
-public_folder: /assets/src/pages/blog
+public_folder: /assets
 
 collections:
   - name: blog
     label: Blog
-    folder: src/pages/blog
+    folder: blog
     create: true
     fields:
       - { name: path, label: Path }
