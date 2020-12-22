@@ -32,10 +32,7 @@ const PostTemplate = ({ data, pageContext }) => {
           </Link>
         )}
         <span> &middot; </span>
-//         <Link to="/" className="home" className="home" title="Back Home">
-// //           {" "}
-// //           Home{" "}
-//         </Link>
+       
         <span> &middot; </span>
         {next && (
           <Link
