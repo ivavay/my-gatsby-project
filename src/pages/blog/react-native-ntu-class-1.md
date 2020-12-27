@@ -13,4 +13,4 @@ style = {styles.img}
 
 i really want to be able to make a simple book app like [this](https://www.instamobile.io/react-native-tutorials/react-native-app-ideas-beginners/) by the end of the 3-week course but i don't know if the fundamentals will be able to carry me through! also, i hope that i will be able to keep on following along even in the 2nd class and beyond. i am afraid of falling behind when he starts teaching more complex stuff! 
 
-so glad that this class is project based though but not theory-only! i will have to put the project on github tomorrow sometimes hehe for safekeeping's sake.
+so glad that this class is project based though but not theory-only! i will have to [put the project on github](https://funnelgarden.com/import-github/) tomorrow sometimes hehe for safekeeping's sake.
